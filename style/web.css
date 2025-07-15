@@ -105,7 +105,7 @@ font-weight: bold;
 }
 .contact{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
    font-size: 20px;
    font-weight: bold;
    height: 350px;
